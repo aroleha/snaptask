@@ -1,0 +1,14 @@
+# virtual environment (rebuild with: pip install -r requirements.txt)
+venv/
+__pycache__/
+*.pyc
+
+# private data: your screenshots and their OCR text
+uploads/
+organized/
+watch/
+screenshots.db
+screenshots.db-wal
+screenshots.db-shm
+data.json
+data.json.bak

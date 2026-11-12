@@ -1,0 +1,6 @@
+flask
+pillow
+watchdog
+# optional (the app runs without them):
+pytesseract
+plyer
